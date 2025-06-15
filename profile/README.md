@@ -6,9 +6,9 @@
 
 ### A quick material F-Droid client.
 
-[![GitHub Stars](https://img.shields.io/github/stars/Iamlooker/Droid-ify?color=%2364f573&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/stargazers)
-[![GitHub License](https://img.shields.io/github/license/Iamlooker/Droid-ify?color=%2364f573&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/blob/master/COPYING)
-[![GitHub Downloads](https://img.shields.io/github/downloads/Iamlooker/Droid-ify/total.svg?color=%23f5ad64&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/releases/)
+[![GitHub stars](https://img.shields.io/github/stars/Iamlooker/Droid-ify?color=%2364f573&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Iamlooker/Droid-ify?color=%2364f573&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/blob/master/COPYING)
+[![GitHub downloads](https://img.shields.io/github/downloads/Iamlooker/Droid-ify/total.svg?color=%23f5ad64&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/releases/)
 [![GitHub latest release](https://img.shields.io/github/v/release/Iamlooker/Droid-ify?display_name=tag&color=%23f5ad64&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/releases/latest)
 [![F-Droid latest release](https://img.shields.io/f-droid/v/com.looker.droidify?color=%23f5ad64&style=for-the-badge)](https://f-droid.org/packages/com.looker.droidify)
 
@@ -23,9 +23,18 @@
 
 ## Building and installing
 
-You need [Android Studio](https://developer.android.com/studio) to build this app.\
-After Installing Android Studio, select `Project from Version Control` and paste the link of this repository.\
-Navigate to `Build > APK > Create New Keystore > Enter the password` and wait for the build to finish.
+1. **Install Android Studio**:
+    - Download and install [Android Studio](https://developer.android.com/studio) on your computer
+      if you haven't already.
+
+2. **Clone the repository**:
+    - Open Android Studio and select "Project from Version Control."
+    - Paste the link to this repository to clone it to your local machine.
+
+3. **Build the APK**:
+    - In Android Studio, navigate to `Build > APK`.
+    - Select "Create New Keystore" and enter the required information, including a password.
+    - Wait for the build process to finish.
 
 ## Contribution
 
