@@ -6,24 +6,24 @@
 
 ### A quick material F-Droid client.
 
-[![Github Stars](https://img.shields.io/github/stars/Iamlooker/Droid-ify?color=%2364f573&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/stargazers)
-[![Github License](https://img.shields.io/github/license/Iamlooker/Droid-ify?color=%2364f573&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/blob/master/COPYING)
-[![Github Downloads](https://img.shields.io/github/downloads/Iamlooker/Droid-ify/total.svg?color=%23f5ad64&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/releases/)
-[![Github Latest](https://img.shields.io/github/v/release/Iamlooker/Droid-ify?display_name=tag&color=%23f5ad64&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/releases/latest)
-[![FDroid Latest](https://img.shields.io/f-droid/v/com.looker.droidify?color=%23f5ad64&style=for-the-badge)](https://f-droid.org/packages/com.looker.droidify)
+[![GitHub Stars](https://img.shields.io/github/stars/Iamlooker/Droid-ify?color=%2364f573&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/stargazers)
+[![GitHub License](https://img.shields.io/github/license/Iamlooker/Droid-ify?color=%2364f573&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/blob/master/COPYING)
+[![GitHub Downloads](https://img.shields.io/github/downloads/Iamlooker/Droid-ify/total.svg?color=%23f5ad64&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/releases/)
+[![GitHub latest release](https://img.shields.io/github/v/release/Iamlooker/Droid-ify?display_name=tag&color=%23f5ad64&style=for-the-badge)](https://github.com/Iamlooker/Droid-ify/releases/latest)
+[![F-Droid latest release](https://img.shields.io/f-droid/v/com.looker.droidify?color=%23f5ad64&style=for-the-badge)](https://f-droid.org/packages/com.looker.droidify)
 
 <div align="left">
 
 ## Features
 
-* Material & Clean design
+* Clean Material 3 design
 * Fast repository syncing
 * Smooth user experience
 * Feature-rich
 
-## Building and Installing
+## Building and installing
 
-You need [Android Studio](https://developer.android.com/studio) to build this App.\
+You need [Android Studio](https://developer.android.com/studio) to build this app.\
 After Installing Android Studio, select `Project from Version Control` and paste the link of this repository.\
 Navigate to `Build > APK > Create New Keystore > Enter the password` and wait for the build to finish.
 
@@ -31,5 +31,5 @@ Navigate to `Build > APK > Create New Keystore > Enter the password` and wait fo
 
 - Pick any issue you would like to resolve
 - Fork the project
-- Open a Pull Request
-- Your PR will undergo review
+- Open a pull request
+- Your pull request will undergo review
