@@ -20,16 +20,3 @@
 * Fast repository syncing
 * Smooth user experience
 * Feature-rich
-
-## Building and Installing
-
-You need [Android Studio](https://developer.android.com/studio) to build this App.\
-After Installing Android Studio, select `Project from Version Control` and paste the link of this repository.\
-Navigate to `Build > APK > Create New Keystore > Enter the password` and wait for the build to finish.
-
-## Contribution
-
-- Pick any issue you would like to resolve
-- Fork the project
-- Open a Pull Request
-- Your PR will undergo review
